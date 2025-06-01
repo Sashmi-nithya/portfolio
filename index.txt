@@ -1,0 +1,169 @@
+vCard - Personal Portfolio
+
+# sidebar
+alt = Nithya Shree
+Nithya Shree R
+Data Scientist / Software Developer
+
+Show Contacts
+
+Email
+sashmithanithyashree@gmail.com
+
+Phone
++91 8825604484
+
+Birthday
+(Not Provided)
+
+Location
+Kovilpatti, Tamil Nadu, India
+
+# navbar
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+About me
+
+I'm a passionate 3rd-year undergraduate in Artificial Intelligence and Data Science at National Engineering College. I enjoy transforming complex challenges into intelligent, data-driven solutions. My curiosity drives me to continuously explore new technologies and real-world applications in AI.
+
+I specialize in building practical AI models, performing data analysis, and creating intuitive visualizations. I love collaborating on innovative projects and pushing the boundaries of what technology can achieve in solving human problems.
+
+## service
+What I'm doing
+
+alt = brain icon
+Machine Learning
+Building intelligent models to classify, predict, and analyze data with high accuracy.
+
+alt = code icon
+Web Development
+Creating responsive and functional front-ends using HTML and CSS.
+
+alt = data icon
+Data Analysis & Visualization
+Transforming raw data into insightful, decision-ready visual stories.
+
+alt = cloud icon
+Cloud & IoT
+Gained exposure in cloud computing and IoT concepts via certified courses.
+
+## testimonials
+(This section can be left blank or filled in later with real testimonials.)
+
+## clients
+(You may add logos or names of organizations you interned with.)
+
+Vibhathi Labs (Oracle Technology)
+
+TechnoHacks EduTech
+
+# resume
+Resume
+
+Education
+
+National Engineering College
+B.Tech in Artificial Intelligence and Data Science (2022–Present)
+CGPA: 8.83
+
+Ravilla K R A Vidhyashram HSS
+HSC – 93% (2021–2022)
+SSLC – 87.8% (2019–2020)
+
+Experience (Internships)
+
+Oracle Technology (Vibhathi Labs)
+3 months – DBMS, Oracle Apex, PL/SQL
+
+TechnoHacks EduTech
+4 weeks – Data processing, analysis, and visualization
+
+Projects
+
+TrackVibe: Genre Classification of Music Tracks
+Used logistic regression, decision trees, PCA, and resampling.
+Tech: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+RetinaGuard: AI-Driven Diabetic Retinopathy Classification
+Built using CNNs and InceptionV3 with data augmentation and fine-tuning.
+Tech: Python, TensorFlow, Keras, Pandas, Seaborn
+
+Skills
+
+Python
+
+Machine Learning
+
+Deep Learning
+
+Data Science
+
+Data Visualization
+
+SQL
+
+HTML & CSS
+
+Certifications
+
+NPTEL:
+
+IoT (92% - ELITE + GOLD)
+
+Cloud Computing (84% - ELITE + SILVER)
+
+DBMS – Part 1
+
+Infosys Springboard: Responsive Web Design
+
+IIRS Dehradun: Geodata Processing using Python
+
+Languages
+
+Tamil (Native)
+
+English (Fluent)
+
+Hindi (Basic)
+
+Telugu (Speaking only)
+
+# portfolio
+Portfolio
+
+All
+Machine Learning | Deep Learning | Web Development | Data Visualization
+
+TrackVibe
+Music Genre Classification – ML Project
+
+RetinaGuard
+Diabetic Retinopathy Detection – Deep Learning
+
+(Add more if available, with links/images)
+
+# blog
+(If you haven’t written blogs yet, you can start with posts like:)
+
+How I Built an AI Model to Detect Diabetic Retinopathy
+
+Music Meets Machine Learning – Behind the TrackVibe Project
+
+My Internship Experience at Vibhathi Labs
+
+Top 5 Tips for NPTEL Certification Success
+
+# contact
+Contact Form
+
+Full Name
+Email Address
+Your Message
+
+[Send Message]
+
